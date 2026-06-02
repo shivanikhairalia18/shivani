@@ -3,8 +3,7 @@
 
 ☁️ Cloud Computing Student
 
-* 🔭 I'm currently working on Cloud and DevOps projects                                      <img align="right" width="350" src="YOUR_IMAGE_URL_HERE">
-src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+* 🔭 I'm currently working on Cloud and DevOps projects                           <img align="right" width="350" src="YOUR_IMAGE_URL_HERE">
 * 🌱 I'm currently learning AWS, Docker, Kubernetes, and Linux
 * 👯 I'm looking to collaborate on Cloud Computing projects
 * 💬 Ask me about Cloud Computing, Linux, and Networking
